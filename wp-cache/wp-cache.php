@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: My Cache
+Plugin Name: WP Cache
 Description: A simple WordPress caching plugin.
 Version: 1.0
 Author: Your Name
